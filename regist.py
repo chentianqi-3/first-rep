@@ -8,6 +8,8 @@ number5 = 600
 
 number 6 = 600 #jingli
 
+
 number7 =700 #jingli
 
-number 8 = 800 $jingli
+
+number7 = 700 #zhangsan
