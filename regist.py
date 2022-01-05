@@ -9,7 +9,7 @@ number5 = 600
 number 6 = 600 #jingli
 
 
-number7 =700 #jingli
+number7 =7000 #jingli
 
 
-number7 = 700 #zhangsan
+number8 = 7000 #zhangsan
